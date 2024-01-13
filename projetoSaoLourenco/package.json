@@ -1,0 +1,46 @@
+{
+  "name": "projetosaolourenco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/server/indexServer.js",
+    "start-dev": "nodemon src/server/indexServer.ts",
+    "build": "tsc",
+    "dev": "npm run build && npm run start-dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nestjs/typeorm": "^10.0.1",
+    "axios": "^1.6.5",
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "convert-excel-to-json": "^1.7.0",
+    "cors": "^2.8.5",
+    "exceljs": "^4.4.0",
+    "express": "^4.18.2",
+    "googleapis": "^130.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.0.4",
+    "mysql2": "^3.7.0",
+    "pg": "^8.11.3",
+    "reflect-metadata": "^0.1.12",
+    "routing-controllers": "^0.10.4",
+    "typeorm": "^0.3.19",
+    "validator": "^13.11.0",
+    "winston": "^3.11.0"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^5.0.2",
+    "@types/cors": "^2.8.17",
+    "@types/express": "^4.17.21",
+    "@types/jsonwebtoken": "^9.0.5",
+    "@types/node": "^20.10.8",
+    "@types/pg": "^8.10.9",
+    "nodemon": "^3.0.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}

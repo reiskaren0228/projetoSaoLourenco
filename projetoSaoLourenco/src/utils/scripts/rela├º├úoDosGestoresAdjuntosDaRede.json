@@ -1,0 +1,311 @@
+{
+  "gestores": [
+    {
+      "Nome": "AGUINALDO CLAUDINO LEITE",
+      "CPF": "823.571.964-91",
+      "Escola": "ESCOLA MUNICIPAL CLODOALDO GOMES DE ARAUJO",
+      "Função": "Gestor (a) Adjunto",
+      "Telefones": ["(81) 999998256"]
+    },
+    {
+      "Nome": "Alexandre José da Silva",
+      "CPF": "064.104.764-93",
+      "Escola": "ESCOLA MUNICIPAL JONAS DE ANDRADE LIMA",
+      "Função": "Gestor (a) Adjunto",
+      "Telefones": ["(81) 989357076", "(81) 989357076"]
+    },
+    {
+      "Nome": "CASSIA CRISTINA RUFINO DA SILVA LUZ",
+      "CPF": "040.858.404-10",
+      "Escola": "ESCOLA MUNICIPAL JOAQUIM DE BRITO",
+      "Função": "Gestor (a) Escolar",
+      "Telefones": ["(81) 986908315"]
+    },
+    {
+      "Nome": "CÉLIA MARIA MENDES DE MORAIS ALMEIDA",
+      "CPF": "169.831.654-20",
+      "Escola": "Escola Municipal Ariano Suassuna",
+      "Função": "Gestor (a) Escolar",
+      "Telefones": ["(81) 998100827", "(81) 986081781"]
+    },
+    {
+      "Nome": "Claudia Regina Portela de Nóbrega Silva",
+      "CPF": "418.296.625-20",
+      "Escola": "Escola Municipal Ariano Suassuna",
+      "Função": "Gestor (a) Adjunto",
+      "Telefones": ["(81) 979063831"]
+    },
+    {
+      "Nome": "CREUSA FERREIRA DA SILVA",
+      "CPF": "333.495.504-44",
+      "Escola": "ESCOLA MUNICIPAL DOUTOR AUGUSTO LUCENA",
+      "Função": "Gestor (a) Escolar",
+      "Telefones": ["(81) 988437002"]
+    },
+    {
+      "Nome": "EDISANGELA EDILEUZA FERREIRA",
+      "CPF": "092.165.274-71",
+      "Escola": "ESCOLA MUNICIPAL DOUTOR HENRIQUE DE QUEIROZ MONTEIRO",
+      "Função": "Gestor (a) Escolar",
+      "Telefones": ["(81) 81991716973", "(81) 81991716973"]
+    },
+    {
+      "Nome": "ELIANA ANDRADE DE SOUZA MELO",
+      "CPF": "833.528.484-91",
+      "Escola": "ESCOLA MUNICIPAL INACIO GOMES DA SILVA",
+      "Função": "Gestor (a) Adjunto",
+      "Telefones": ["(81) 988841373"]
+    },
+    {
+      "Nome": "ELIANE SANTOS XAVIER DAS NEVES",
+      "CPF": "402.177.014-34",
+      "Escola": "ESCOLA MUNICIPAL PADRE JOAO COLLIGNON",
+      "Função": "Gestor (a) Escolar",
+      "Telefones": ["(81) 997407392"]
+    },
+    {
+      "Nome": "ELIZANGELA AGUIAR BARBOSA DA SILVA",
+      "CPF": "040.706.504-07",
+      "Escola": "ESCOLA MUNICIPAL MARIA JOSE DE SOUZA",
+      "Função": "Gestor (a) Escolar",
+      "Telefones": ["(81) 999638080"]
+    },
+    {
+      "Nome": "EMERSON JOSÉ ALVES",
+      "CPF": "071.645.694-01",
+      "Escola": "COLEGIO MUNICIPAL MINISTRO APOLONIO SALES",
+      "Função": "Gestor (a) Adjunto",
+      "Telefones": ["(81) 998085637"]
+    },
+    {
+      "Nome": "ERINA CARLA ARAUJO DE OLIVEIRA NASCIMENTO",
+      "CPF": "041.744.494-06",
+      "Escola": "ESCOLA MUNICIPAL DUQUE DE CAXIAS",
+      "Função": "Gestor (a) Escolar",
+      "Telefones": ["(81) 987383848", "(81) 987383848"]
+    },
+    {
+      "Nome": "EVELINA MARIA DA SILVA",
+      "CPF": "284.094.854-00",
+      "Escola": "ESCOLA MUNICIPAL CLODOALDO GOMES DE ARAUJO",
+      "Função": "Gestor (a) Escolar",
+      "Telefones": ["(81) 997974750"]
+    },
+    {
+      "Nome": "FLAVIANE LILIAN URSULINO DE LIRA",
+      "CPF": "043.831.004-73",
+      "Escola": "ESCOLA MUNICIPAL PADRE JOAO COLLIGNON",
+      "Função": "Gestor (a) Adjunto",
+      "Telefones": ["(81) 995227981"]
+    },
+    {
+      "Nome": "GRACIA MARIA DE OLIVEIRA MUNIZ",
+      "CPF": "104.373.984-04",
+      "Escola": "ESCOLA MUNICIPAL MENINO JESUS",
+      "Função": "Gestor (a) Escolar",
+      "Telefones": ["(81) 986427876"]
+    },
+    {
+      "Nome": "ISOLDA GRAZIELA DA CUNHA SILVA LUZ",
+      "CPF": "007.687.044-80",
+      "Escola": "ESCOLA MUNICIPAL PROFESSOR JOSUE PEREIRA DE OLIVEIRA",
+      "Função": "Gestor (a) Escolar",
+      "Telefones": ["(81) 35250394", "(81) 987256258"]
+    },
+    {
+      "Nome": "JAILMA VIEIRA DE SALES",
+      "CPF": "039.549.034-07",
+      "Escola": "ESCOLA MUNICIPAL DOUTOR FERNANDO SAMPAIO",
+      "Função": "Gestor (a) Escolar",
+      "Telefones": ["(81) 988642528"]
+    },
+    {
+      "Nome": "JAQUELINE PEREIRA MENDES VIANA",
+      "CPF": "683.792.264-53",
+      "Escola": "ESCOLA MUNICIPAL PADRE JOAO BARBALHO",
+      "Função": "Gestor (a) Escolar",
+      "Telefones": ["(81) 986482058"]
+    },
+    {
+      "Nome": "JOELMA MARIA DOS SANTOS",
+      "CPF": "093.437.744-86",
+      "Escola": "ESCOLA MUNICIPAL ANTONIO DE CASTRO ALVES",
+      "Função": "Gestor (a) Escolar",
+      "Telefones": ["(81) 971755639"]
+    },
+    {
+      "Nome": "JOSILENE DOURADO DE OLIVEIRA GOMES",
+      "CPF": "586.818.924-87",
+      "Escola": "CRECHE IDALINA BEZERRA",
+      "Função": "Gestor (a) Escolar",
+      "Telefones": ["(81) 988503412"]
+    },
+    {
+      "Nome": "JOSINEIDE TEOTONIA DA SILVA",
+      "CPF": "036.436.754-70",
+      "Escola": "ESCOLA MUNICIPAL DOUTOR LUIZ CORREA DE ARAUJO",
+      "Função": "Gestor (a) Escolar",
+      "Telefones": ["(81) 987815756"]
+    },
+    {
+      "Nome": "JOSUE FERREIRA PARENTE",
+      "CPF": "012.871.254-68",
+      "Escola": "COLEGIO MUNICIPAL MINISTRO APOLONIO SALES",
+      "Função": "Gestor (a) Escolar",
+      "Telefones": ["(81) 983208928"]
+    },
+    {
+      "Nome": "KARINA PEREIRA DOS SANTOS",
+      "CPF": "919.028.004-00",
+      "Escola": "CRECHE MUNICIPAL GOVERNADOR EDUARDO CAMPOS - CRECHE TIO DUDU",
+      "Função": "Gestor (a) Escolar",
+      "Telefones": ["(81) 987779753"]
+    },
+    {
+      "Nome": "Lidiane Nascimento dos Santos Barros",
+      "CPF": "069.544.624-03",
+      "Escola": "ESCOLA MUNICIPAL POCO DANTAS",
+      "Função": "Gestor (a) Escolar",
+      "Telefones": ["(81) 993838655"]
+    },
+    {
+      "Nome": "LUCICLEIDE SOARES DA SILVA",
+      "CPF": "665.569.964-91",
+      "Escola": "ESCOLA MUNICIPAL HERMINO MOREIRA DIAS",
+      "Função": "Gestor (a) Escolar",
+      "Telefones": ["(81) 986953056"]
+    },
+    {
+      "Nome": "LUCINEIA SEVERINA DOS SANTOS",
+      "CPF": "026.140.994-81",
+      "Escola": "ESCOLA MUNICIPAL CRECHE VOVO ISAURA CHAVES",
+      "Função": "Gestor (a) Escolar",
+      "Telefones": ["(81) 987801944"]
+    },
+    {
+      "Nome": "Luiz Carlos da Silva",
+      "CPF": "794.106.424-34",
+      "Escola": "ESCOLA MUNICIPAL INACIO GOMES DA SILVA",
+      "Função": "Gestor (a) Escolar",
+      "Telefones": ["(81) 987069300"]
+    },
+    {
+      "Nome": "MARCELO RODRIGUES DE MOURA",
+      "CPF": "455.858.064-91",
+      "Escola": "ESCOLA MUNICIPAL INACIO GOMES DA SILVA, ESCOLA MUNICIPAL TIRADENTES",
+      "Função": "Gestor (a) Escolar",
+      "Telefones": ["(81) 992160617"]
+    },
+    {
+      "Nome": "MARIA APARECIDA DE SOUSA XAVIER",
+      "CPF": "436.268.234-15",
+      "Escola": "ESCOLA MUNICIPAL CLETO CAMPELO",
+      "Função": "Gestor (a) Escolar",
+      "Telefones": ["(81) 996752989"]
+    },
+    {
+      "Nome": "MARIA DAS NEVES TEIXEIRA",
+      "CPF": "370.394.664-49",
+      "Escola": "ESCOLA MUNICIPAL ANTONIO CRESCENCIO DE GOIS",
+      "Função": "Gestor (a) Escolar",
+      "Telefones": ["(81) 996108008"]
+    },
+    {
+      "Nome": "MARIA DO SOCORRO SANTOS DE AZEVEDO",
+      "CPF": "330.570.954-53",
+      "Escola": "CRECHE MUNICIPAL TIA INES",
+      "Função": "Gestor (a) Escolar",
+      "Telefones": ["(81) 986348189"]
+    },
+    {
+      "Nome": "Maria Elisabete Paulino Ferreira",
+      "CPF": "975.129.824-53",
+      "Escola": "ESCOLA MUNICIPAL SENADOR JOSE ERMIRIO DE MORAES, ESCOLA MUN JORNALISTA CRISTINA TAVARES",
+      "Função": "Gestor (a) Adjunto",
+      "Telefones": ["(81) 86328949"]
+    },
+    {
+      "Nome": "MAURICEIA CORREIA LIMA",
+      "CPF": "743.963.404-78",
+      "Escola": "ESCOLA MUNICIPAL JAIR PEREIRA DE OLIVEIRA",
+      "Função": "Gestor (a) Escolar"
+    },
+    {
+      "Nome": "MIRAZIANE MARIA DA SILVA",
+      "CPF": "104.311.374-63",
+      "Escola": "ESCOLA MUNICIPAL JOAQUIM DAMIAO DA SILVA",
+      "Função": "Gestor (a) Escolar",
+      "Telefones": ["(81) 984553111"]
+    },
+    {
+      "Nome": "MONETA ALVES DOS SANTOS",
+      "CPF": "060.070.064-09",
+      "Escola": "ESCOLA MUNICIPAL PROFESSOR SEVERINO SALES",
+      "Função": "Gestor (a) Escolar",
+      "Telefones": ["(81) 997796924"]
+    },
+    {
+      "Nome": "NIVALDA FRANCISCA DE LIMA",
+      "CPF": "453.199.874-04",
+      "Escola": "ESCOLA MUNICIPAL PAULO GOMES DE ARAUJO",
+      "Função": "Gestor (a) Escolar",
+      "Telefones": ["(81) 985261629"]
+    },
+    {
+      "Nome": "RILDO CASSEMIRO DOS SANTOS",
+      "CPF": "933.289.234-20",
+      "Escola": "ESCOLA MUNICIPAL MINISTRO FERNANDO LYRA",
+      "Função": "Gestor (a) Escolar",
+      "Telefones": ["(81) 987293360"]
+    },
+    {
+      "Nome": "ROSANA ALVES SA BARRETO",
+      "CPF": "475.985.734-68",
+      "Escola": "ESCOLA MUNICIPAL CARMELA ORRICO LAPENDA, ESCOLA MUNICIPAL DONA OLIVIA JOSEFA DA SILVA",
+      "Função": "Gestor (a) Escolar",
+      "Telefones": ["(81) 997695880"]
+    },
+    {
+      "Nome": "SEVERINA MARIA PEREIRA MUNIZ",
+      "CPF": "555.796.394-49",
+      "Escola": "ESCOLA MUNICIPAL SENADOR JOSE ERMIRIO DE MORAES, ESCOLA MUNICIPAL TIRADENTES",
+      "Função": "Gestor (a) Escolar",
+      "Telefones": ["(81) 982741880", "(81) 982711880"]
+    },
+    {
+      "Nome": "SUELY FELIX DA SILVA",
+      "CPF": "754.010.104-00",
+      "Escola": "ESCOLA MUNICIPAL SENADOR FRANCISCO GOMES DE ARAUJO",
+      "Função": "Gestor (a) Escolar",
+      "Telefones": ["(81) 982861302"]
+    },
+    {
+      "Nome": "SUZANA GERALDO DA SILVA",
+      "CPF": "024.428.614-02",
+      "Escola": "ESCOLA MUNICIPAL CLETO CAMPELO",
+      "Função": "Gestor (a) Adjunto",
+      "Telefones": ["(81) 998990034"]
+    },
+    {
+      "Nome": "VANESSA REGINA FLORENCIO DE MORAIS NASCIMENTO",
+      "CPF": "082.728.824-77",
+      "Escola": "ESCOLA MUNICIPAL ALFREDO DIAS DE OLIVEIRA, ESCOLA MUNICIPAL CARMELA ORRICO LAPENDA",
+      "Função": "Gestor (a) Escolar",
+      "Telefones": ["(81) 988513544"]
+    },
+    {
+      "Nome": "VERONILDA MARIA DOS SANTOS",
+      "CPF": "720.290.134-04",
+      "Escola": "ESCOLA MUN JORNALISTA CRISTINA TAVARES",
+      "Função": "Gestor (a) Escolar",
+      "Telefones": ["(81) 984720401"]
+    },
+    {
+      "Nome": "ZILMA DE MELO ROCHA",
+      "CPF": "819.782.274-34",
+      "Escola": "ESCOLA MUNICIPAL ROSINA LABANCA",
+      "Função": "Gestor (a) Adjunto",
+      "Telefones": ["(81) 994624923"]
+    }
+  ]
+}
