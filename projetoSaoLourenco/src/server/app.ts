@@ -14,7 +14,15 @@ app.use(cors());
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
-// Routes
-app.use("/api", escolaRouter, turmaRouter, alunoRouter, gestorRouter);
+const apiRouter = express.Router();
+
+// Adicione as rotas ao roteador /api
+apiRouter.use("/escolas", escolaRouter);
+apiRouter.use("/turmas", turmaRouter);
+apiRouter.use("/alunos", alunoRouter);
+apiRouter.use("/gestores", gestorRouter);
+
+// Use o roteador /api como middleware com o prefixo /api
+app.use("/api", apiRouter);
 
 export default app;
