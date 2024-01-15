@@ -1,0 +1,274 @@
+{
+  "pea_2023_5ano": {
+    "Disciplinas": {
+      "LinguaPortuguesa": [
+        {
+          "Questão": 1,
+          "Nível": "Fácil",
+          "Descritores": "D1",
+          "Alternativas": "C"
+        },
+        {
+          "Questão": 2,
+          "Nível": "Médio",
+          "Descritores": "D4",
+          "Alternativas": "D"
+        },
+        {
+          "Questão": 3,
+          "Nível": "Médio",
+          "Descritores": "D3",
+          "Alternativas": "A"
+        },
+        {
+          "Questão": 4,
+          "Nível": "Fácil",
+          "Descritores": "D7",
+          "Alternativas": "C"
+        },
+        {
+          "Questão": 5,
+          "Nível": "Médio",
+          "Descritores": "D3",
+          "Alternativas": "D"
+        },
+        {
+          "Questão": 6,
+          "Nível": "Médio",
+          "Descritores": "D6",
+          "Alternativas": "A"
+        },
+        {
+          "Questão": 7,
+          "Nível": "Difícil",
+          "Descritores": "D11",
+          "Alternativas": "D"
+        },
+        {
+          "Questão": 8,
+          "Nível": "Fácil",
+          "Descritores": "D9",
+          "Alternativas": "C"
+        },
+        {
+          "Questão": 9,
+          "Nível": "Fácil",
+          "Descritores": "D14",
+          "Alternativas": "A"
+        },
+        {
+          "Questão": 10,
+          "Nível": "Difícil",
+          "Descritores": "D11",
+          "Alternativas": "B"
+        },
+        {
+          "Questão": 11,
+          "Nível": "Fácil",
+          "Descritores": "D10",
+          "Alternativas": "B"
+        },
+        {
+          "Questão": 12,
+          "Nível": "Médio",
+          "Descritores": "D13",
+          "Alternativas": "C"
+        },
+        {
+          "Questão": 13,
+          "Nível": "Médio",
+          "Descritores": "D01",
+          "Alternativas": "C"
+        },
+        {
+          "Questão": 14,
+          "Nível": "Médio",
+          "Descritores": "D6",
+          "Alternativas": "A"
+        },
+        {
+          "Questão": 15,
+          "Nível": "Difícil",
+          "Descritores": "D15",
+          "Alternativas": "D"
+        },
+        {
+          "Questão": 16,
+          "Nível": "Fácil",
+          "Descritores": "D4",
+          "Alternativas": "A"
+        },
+        {
+          "Questão": 17,
+          "Nível": "Difícil",
+          "Descritores": "D10",
+          "Alternativas": "A"
+        },
+        {
+          "Questão": 18,
+          "Nível": "Médio",
+          "Descritores": "D9",
+          "Alternativas": "C"
+        },
+        {
+          "Questão": 19,
+          "Nível": "Médio",
+          "Descritores": "",
+          "Alternativas": "A"
+        },
+        {
+          "Questão": 20,
+          "Nível": "Médio",
+          "Descritores": "",
+          "Alternativas": "A"
+        },
+        {
+          "Questão": 21,
+          "Nível": "Fácil",
+          "Descritores": "D1",
+          "Alternativas": "A"
+        },
+        {
+          "Questão": 22,
+          "Nível": "Difícil",
+          "Descritores": "D3",
+          "Alternativas": "C"
+        }
+      ],
+      "Matematica": [
+        {
+          "Questão": 23,
+          "Nível": "Fácil",
+          "Descritores": "D28",
+          "Alternativas": "A"
+        },
+        {
+          "Questão": 24,
+          "Nível": "Difícil",
+          "Descritores": "D1",
+          "Alternativas": "D"
+        },
+        {
+          "Questão": 25,
+          "Nível": "Fácil",
+          "Descritores": "D20",
+          "Alternativas": "A"
+        },
+        {
+          "Questão": 26,
+          "Nível": "Médio",
+          "Descritores": "D2",
+          "Alternativas": "C"
+        },
+        {
+          "Questão": 27,
+          "Nível": "Médio",
+          "Descritores": "D19",
+          "Alternativas": "B"
+        },
+        {
+          "Questão": 28,
+          "Nível": "Fácil",
+          "Descritores": "D27",
+          "Alternativas": "A"
+        },
+        {
+          "Questão": 29,
+          "Nível": "Fácil",
+          "Descritores": "D19",
+          "Alternativas": "C"
+        },
+        {
+          "Questão": 30,
+          "Nível": "Médio",
+          "Descritores": "D6",
+          "Alternativas": "B"
+        },
+        {
+          "Questão": 31,
+          "Nível": "Médio",
+          "Descritores": "D9",
+          "Alternativas": "B"
+        },
+        {
+          "Questão": 32,
+          "Nível": "Médio",
+          "Descritores": "D13",
+          "Alternativas": "C"
+        },
+        {
+          "Questão": 33,
+          "Nível": "Médio",
+          "Descritores": "D10",
+          "Alternativas": "D"
+        },
+        {
+          "Questão": 34,
+          "Nível": "Médio",
+          "Descritores": "D08",
+          "Alternativas": "D"
+        },
+        {
+          "Questão": 35,
+          "Nível": "Difícil",
+          "Descritores": "D02",
+          "Alternativas": "A"
+        },
+        {
+          "Questão": 36,
+          "Nível": "Difícil",
+          "Descritores": "D14",
+          "Alternativas": "D"
+        },
+        {
+          "Questão": 37,
+          "Nível": "Difícil",
+          "Descritores": "",
+          "Alternativas": "D"
+        },
+        {
+          "Questão": 38,
+          "Nível": "Difícil",
+          "Descritores": "D10",
+          "Alternativas": "B"
+        },
+        {
+          "Questão": 39,
+          "Nível": "Difícil",
+          "Descritores": "D24",
+          "Alternativas": "B"
+        },
+        {
+          "Questão": 40,
+          "Nível": "Difícil",
+          "Descritores": "D07",
+          "Alternativas": "B"
+        },
+        {
+          "Questão": 41,
+          "Nível": "Médio",
+          "Descritores": "D14",
+          "Alternativas": "C"
+        },
+        {
+          "Questão": 42,
+          "Nível": "Fácil",
+          "Descritores": "D08",
+          "Alternativas": "D"
+        },
+        {
+          "Questão": 43,
+          "Nível": "Fácil",
+          "Descritores": "D19",
+          "Alternativas": "A"
+        },
+        {
+          "Questão": 44,
+          "Nível": "Médio",
+          "Descritores": "D29",
+          "Alternativas": "A"
+        }
+      ]
+    }
+  }
+}

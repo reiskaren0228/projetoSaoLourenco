@@ -1,0 +1,62 @@
+{
+  "pea_2023_9ano": {
+    "Disciplinas": {
+      "LinguaPortuguesa": [
+        { "Questão": 1, "Nível": "Médio", "Alternativa": "A" },
+        { "Questão": 2, "Nível": "Médio", "Alternativa": "B" },
+        { "Questão": 3, "Nível": "Difícil", "Alternativa": "D" },
+        { "Questão": 4, "Nível": "Difícil", "Alternativa": "B" },
+        { "Questão": 5, "Nível": "Fácil", "Alternativa": "C" },
+        { "Questão": 6, "Nível": "Médio", "Alternativa": "B" },
+        { "Questão": 7, "Nível": "Difícil", "Alternativa": "B" },
+        { "Questão": 8, "Nível": "Fácil", "Alternativa": "A" },
+        { "Questão": 9, "Nível": "Médio", "Alternativa": "D" },
+        { "Questão": 10, "Nível": "Fácil", "Alternativa": "A" },
+        { "Questão": 11, "Nível": "Difícil", "Alternativa": "C" },
+        { "Questão": 12, "Nível": "Difícil", "Alternativa": "C" },
+        { "Questão": 13, "Nível": "Médio", "Alternativa": "A" },
+        { "Questão": 14, "Nível": "Médio", "Alternativa": "D" },
+        { "Questão": 15, "Nível": "Fácil", "Alternativa": "B" },
+        { "Questão": 16, "Nível": "Fácil", "Alternativa": "B" },
+        { "Questão": 17, "Nível": "Difícil", "Alternativa": "B" },
+        { "Questão": 18, "Nível": "Difícil", "Alternativa": "B" },
+        { "Questão": 19, "Nível": "Fácil", "Alternativa": "A" },
+        { "Questão": 20, "Nível": "Fácil", "Alternativa": "A" },
+        { "Questão": 21, "Nível": "Fácil", "Alternativa": "C" },
+        { "Questão": 22, "Nível": "Médio", "Alternativa": "A" },
+        { "Questão": 23, "Nível": "Médio", "Alternativa": "D" },
+        { "Questão": 24, "Nível": "Difícil", "Alternativa": "B" },
+        { "Questão": 25, "Nível": "Médio", "Alternativa": "B" },
+        { "Questão": 26, "Nível": "Fácil", "Alternativa": "C" }
+      ],
+      "Matematica": [
+        { "Questão": 27, "Nível": "Fácil", "Alternativa": "B" },
+        { "Questão": 28, "Nível": "Fácil", "Alternativa": "C" },
+        { "Questão": 29, "Nível": "Médio", "Alternativa": "A" },
+        { "Questão": 30, "Nível": "Médio", "Alternativa": "B" },
+        { "Questão": 31, "Nível": "Fácil", "Alternativa": "D" },
+        { "Questão": 32, "Nível": "Difícil", "Alternativa": "A" },
+        { "Questão": 33, "Nível": "Fácil", "Alternativa": "D" },
+        { "Questão": 34, "Nível": "Médio", "Alternativa": "A" },
+        { "Questão": 35, "Nível": "Difícil", "Alternativa": "C" },
+        { "Questão": 36, "Nível": "Fácil", "Alternativa": "B" },
+        { "Questão": 37, "Nível": "Fácil", "Alternativa": "B" },
+        { "Questão": 38, "Nível": "Difícil", "Alternativa": "A" },
+        { "Questão": 39, "Nível": "Fácil", "Alternativa": "C" },
+        { "Questão": 40, "Nível": "Fácil", "Alternativa": "C" },
+        { "Questão": 41, "Nível": "Médio", "Alternativa": "A" },
+        { "Questão": 42, "Nível": "Difícil", "Alternativa": "D" },
+        { "Questão": 43, "Nível": "Médio", "Alternativa": "A" },
+        { "Questão": 44, "Nível": "Fácil", "Alternativa": "C" },
+        { "Questão": 45, "Nível": "Médio", "Alternativa": "A" },
+        { "Questão": 46, "Nível": "Médio", "Alternativa": "A" },
+        { "Questão": 47, "Nível": "Médio", "Alternativa": "C" },
+        { "Questão": 48, "Nível": "Médio", "Alternativa": "D" },
+        { "Questão": 49, "Nível": "Médio", "Alternativa": "B" },
+        { "Questão": 50, "Nível": "Médio", "Alternativa": "B" },
+        { "Questão": 51, "Nível": "Médio", "Alternativa": "D" },
+        { "Questão": 52, "Nível": "Fácil", "Alternativa": "A" }
+      ]
+    }
+  }
+}

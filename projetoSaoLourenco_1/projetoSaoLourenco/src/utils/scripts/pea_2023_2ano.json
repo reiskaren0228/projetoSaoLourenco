@@ -1,0 +1,250 @@
+{
+  "pea_2023_2ano": {
+    "Disciplinas": {
+      "LinguaPortuguesa": [
+        {
+          "Questão": 1,
+          "Nível": "Fácil",
+          "Descritores": "",
+          "Alternativas": "A"
+        },
+        {
+          "Questão": 2,
+          "Nível": "Fácil",
+          "Descritores": "BOLA e ÁRVORE",
+          "Alternativas": ""
+        },
+        {
+          "Questão": 3,
+          "Nível": "Fácil",
+          "Descritores": "",
+          "Alternativas": "C"
+        },
+        {
+          "Questão": 4,
+          "Nível": "Fácil",
+          "Descritores": "",
+          "Alternativas": "C"
+        },
+        {
+          "Questão": 5,
+          "Nível": "Fácil",
+          "Descritores": "",
+          "Alternativas": "D"
+        },
+        {
+          "Questão": 6,
+          "Nível": "Fácil",
+          "Descritores": "",
+          "Alternativas": "C"
+        },
+        {
+          "Questão": 7,
+          "Nível": "Médio",
+          "Descritores": "",
+          "Alternativas": "A"
+        },
+        {
+          "Questão": 8,
+          "Nível": "Médio",
+          "Descritores": "",
+          "Alternativas": "C"
+        },
+        {
+          "Questão": 9,
+          "Nível": "Médio",
+          "Descritores": "",
+          "Alternativas": "B"
+        },
+        {
+          "Questão": 10,
+          "Nível": "Médio",
+          "Descritores": "",
+          "Alternativas": "B"
+        },
+        {
+          "Questão": 11,
+          "Nível": "Médio",
+          "Descritores": "",
+          "Alternativas": "A"
+        },
+        {
+          "Questão": 12,
+          "Nível": "Médio",
+          "Descritores": "",
+          "Alternativas": "B"
+        },
+        {
+          "Questão": 13,
+          "Nível": "Médio",
+          "Descritores": "",
+          "Alternativas": "D"
+        },
+        {
+          "Questão": 14,
+          "Nível": "Difícil",
+          "Descritores": "",
+          "Alternativas": "D"
+        },
+        {
+          "Questão": 15,
+          "Nível": "Difícil",
+          "Descritores": "",
+          "Alternativas": "C"
+        },
+        {
+          "Questão": 16,
+          "Nível": "Difícil",
+          "Descritores": "",
+          "Alternativas": "B"
+        },
+        {
+          "Questão": 17,
+          "Nível": "Difícil",
+          "Descritores": "",
+          "Alternativas": "A"
+        },
+        {
+          "Questão": 18,
+          "Nível": "Difícil",
+          "Descritores": "",
+          "Alternativas": "D"
+        },
+        {
+          "Questão": 19,
+          "Nível": "Difícil",
+          "Descritores": "",
+          "Alternativas": "C"
+        },
+        {
+          "Questão": 20,
+          "Nível": "Difícil",
+          "Descritores": "",
+          "Alternativas": "C"
+        }
+      ],
+      "Matematica": [
+        {
+          "Questão": 21,
+          "Nível": "Fácil",
+          "Descritores": "D09",
+          "Alternativas": "C"
+        },
+        {
+          "Questão": 22,
+          "Nível": "Fácil",
+          "Descritores": "D09",
+          "Alternativas": "D"
+        },
+        {
+          "Questão": 23,
+          "Nível": "Fácil",
+          "Descritores": "D12",
+          "Alternativas": "B"
+        },
+        {
+          "Questão": 24,
+          "Nível": "Fácil",
+          "Descritores": "D10",
+          "Alternativas": "D"
+        },
+        {
+          "Questão": 25,
+          "Nível": "Fácil",
+          "Descritores": "D01",
+          "Alternativas": "A"
+        },
+        {
+          "Questão": 26,
+          "Nível": "Fácil",
+          "Descritores": "D01",
+          "Alternativas": "B"
+        },
+        {
+          "Questão": 27,
+          "Nível": "Fácil",
+          "Descritores": "D01",
+          "Alternativas": "D"
+        },
+        {
+          "Questão": 28,
+          "Nível": "Fácil",
+          "Descritores": "D05",
+          "Alternativas": "C"
+        },
+        {
+          "Questão": 29,
+          "Nível": "Fácil",
+          "Descritores": "D03",
+          "Alternativas": "D"
+        },
+        {
+          "Questão": 30,
+          "Nível": "Médio",
+          "Descritores": "D07",
+          "Alternativas": "C"
+        },
+        {
+          "Questão": 31,
+          "Nível": "Médio",
+          "Descritores": "D12",
+          "Alternativas": "B"
+        },
+        {
+          "Questão": 32,
+          "Nível": "Difícil",
+          "Descritores": "D07",
+          "Alternativas": "A"
+        },
+        {
+          "Questão": 33,
+          "Nível": "Médio",
+          "Descritores": "D06",
+          "Alternativas": "B"
+        },
+        {
+          "Questão": 34,
+          "Nível": "Médio",
+          "Descritores": "D06",
+          "Alternativas": "D"
+        },
+        {
+          "Questão": 35,
+          "Nível": "Médio",
+          "Descritores": "D17",
+          "Alternativas": "D"
+        },
+        {
+          "Questão": 36,
+          "Nível": "Médio",
+          "Descritores": "D17",
+          "Alternativas": "B"
+        },
+        {
+          "Questão": 37,
+          "Nível": "Difícil",
+          "Descritores": "D18",
+          "Alternativas": "A"
+        },
+        {
+          "Questão": 38,
+          "Nível": "Difícil",
+          "Descritores": "D18",
+          "Alternativas": "B"
+        },
+        {
+          "Questão": 39,
+          "Nível": "Difícil",
+          "Descritores": "D18",
+          "Alternativas": "D"
+        },
+        {
+          "Questão": 40,
+          "Nível": "Difícil",
+          "Descritores": "D17",
+          "Alternativas": "B"
+        }
+      ]
+    }
+  }
+}

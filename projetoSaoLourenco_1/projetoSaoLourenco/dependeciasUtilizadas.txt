@@ -1,0 +1,26 @@
+Aqui estão as dependências que foram utilizadas no código:
+
+Dependências do projeto:
+
+express: Framework web para Node.js.
+pg: Cliente PostgreSQL para Node.js.
+ts-node: Executa arquivos TypeScript diretamente.
+typescript: Linguagem de programação que adiciona tipagem ao JavaScript.
+Dependências de desenvolvimento:
+
+@types/express: Tipagens para o Express.
+@types/node: Tipagens para o Node.js.
+nodemon: Monitora alterações nos arquivos e reinicia o servidor automaticamente.
+ts-node-dev: Ferramenta de desenvolvimento para TypeScript.
+Dependências do banco de dados (opcional, se estiver usando PostgreSQL):
+
+pg-promise: Cliente PostgreSQL para Node.js com suporte a Promises.
+Outras dependências que podem ser úteis (opcional):
+
+cors: Middleware para habilitar o CORS (Cross-Origin Resource Sharing) no Express.
+helmet: Middleware para configurar headers HTTP de segurança no Express.
+dotenv: Carrega variáveis de ambiente a partir de um arquivo .env.
+
+Lembrando que você pode instalar essas dependências utilizando o seguinte comando:
+
+npm install express pg ts-node typescript @types/express @types/node nodemon ts-node-dev pg-promise cors helmet dotenv
